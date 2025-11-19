@@ -1,2 +1,6 @@
-Transformer-based model with 15M parameters, 6-layer decoder, 6 attention heads, 384-d embeddings, and 128-token context, trained on TinyStories with PyTorch using AdamW, mixed precision, and gradient-clipping for creative text generation.
-BARTA LAB WORKSHOP
+# BARTA LAB WORKSHOP
+
+A compact, efficient Transformer-based model for creative text generation, trained on **TinyStories** using PyTorch.  
+This repository demonstrates a full minimal training pipeline — including preprocessing, training, inference, and checkpointing — suitable for research, workshops, and experimentation with small language models.
+
+Repository link: [https://tinyurl.com/bartalab-workshop](https://tinyurl.com/bartalab-workshop)
